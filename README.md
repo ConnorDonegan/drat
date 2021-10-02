@@ -1,5 +1,5 @@
 
-## `drat` repository for R packages
+## personal `drat` repository for my R packages
 
 This repository holds R packages for downloading from R. Presently, any package found here is under development, not yet ready for use, and probably not available for Windows users.
 
